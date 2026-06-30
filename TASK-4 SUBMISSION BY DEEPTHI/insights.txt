@@ -1,0 +1,13 @@
+1. The dataset contains information about 891 passengers.
+
+2. Out of 891 passengers, 342 survived and 549 did not survive.
+
+3. There are 577 male passengers and 314 female passengers.
+
+4. The average age of passengers is approximately 29.7 years.
+
+5. Most passengers traveled in Class 3, with 491 passengers.
+
+6. The highest fare paid by a passenger was 512.3292.
+
+7. The Age column contains 177 missing values and the Cabin column contains 687 missing values.
